@@ -1,7 +1,9 @@
+require ('dotenv').config()
 import express  from "express";
 import config from "config";
 import router from './router'
-
+import db from '../config/db'
+import logger from "../config/logger";
 
 
 
@@ -15,6 +17,8 @@ app.use("/api/", router)
 
 
 app.listen(port, async()=>{
-    console.log(`servidor rodando na porta ${port}`)
+    
+    await db();
+    logger.info(`servidor rodando na porta ${port}`)
 })
 
