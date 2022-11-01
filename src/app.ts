@@ -1,7 +1,7 @@
 import express  from "express";
 import config from "config";
 import router from './router'
-
+import db from '../config/db'
 
 
 
@@ -15,6 +15,8 @@ app.use("/api/", router)
 
 
 app.listen(port, async()=>{
+    
+    await db();
     console.log(`servidor rodando na porta ${port}`)
 })
 
