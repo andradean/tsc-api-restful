@@ -7,7 +7,7 @@ const levels = {
  error:0,
  warn:1,
  info:2,
- htpp:3,
+ http:3,
  debug:4
 }
 
@@ -22,7 +22,7 @@ const colors = {
     error:"red",
     warn:"yellow",
     info:"green",
-    htpp:"magenta",
+    http:"magenta",
     debug:"white"
 }
 
