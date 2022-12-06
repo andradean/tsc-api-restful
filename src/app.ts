@@ -17,7 +17,7 @@ app.use(express.json())
 
 app.use(morganMiddleware);
 
-app.use("/api/", router)
+app.use("/", router)
 
 
 app.listen(port, async()=>{

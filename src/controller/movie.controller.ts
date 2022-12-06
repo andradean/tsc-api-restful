@@ -6,7 +6,7 @@ import { movieModel } from "../model/movie";
 export async function createMovie(req:Request, res:Response) {
     try {
         const data = req.body
-        const movie = movieModel.create(data)
+        const movie = await movieModel.create(data)
         res.status(200).send(movie)
 
         
