@@ -124,3 +124,37 @@
 2022-12-06 19:28:47:2847- [32minfo[39m:[32mservidor rodando na porta 8000[39m
 2022-12-06 19:28:57:2857- [35mhttp[39m:[35mPOST /movie 200 151 - 50.808 ms[39m
 [35m[39m
+2022-12-06 20:30:08:308- [32minfo[39m:[32mconectado ao banco de dados![39m
+2022-12-06 20:30:08:308- [32minfo[39m:[32mservidor rodando na porta 8000[39m
+2022-12-06 20:32:04:324- [35mhttp[39m:[35mPOST /movie 200 369 - 27.600 ms[39m
+[35m[39m
+2022-12-06 20:33:10:3310- [35mhttp[39m:[35mPOST /movie 200 260 - 15.293 ms[39m
+[35m[39m
+2022-12-06 20:33:42:3342- [32minfo[39m:[32mconectado ao banco de dados![39m
+2022-12-06 20:33:42:3342- [32minfo[39m:[32mservidor rodando na porta 8000[39m
+2022-12-06 20:34:11:3411- [35mhttp[39m:[35mPOST /movie 200 260 - 69.531 ms[39m
+[35m[39m
+2022-12-06 20:34:12:3412- [35mhttp[39m:[35mPOST /movie 200 260 - 15.761 ms[39m
+[35m[39m
+2022-12-06 20:34:15:3415- [32minfo[39m:[32mconectado ao banco de dados![39m
+2022-12-06 20:34:15:3415- [32minfo[39m:[32mservidor rodando na porta 8000[39m
+2022-12-06 20:34:44:3444- [35mhttp[39m:[35mPOST /movie - - - - ms[39m
+[35m[39m
+2022-12-06 20:34:48:3448- [32minfo[39m:[32mconectado ao banco de dados![39m
+2022-12-06 20:34:48:3448- [32minfo[39m:[32mservidor rodando na porta 8000[39m
+2022-12-06 20:35:05:355- [35mhttp[39m:[35mPOST /movie - - - - ms[39m
+[35m[39m
+2022-12-06 20:35:36:3536- [35mhttp[39m:[35mPOST /movie - - - - ms[39m
+[35m[39m
+2022-12-06 20:35:58:3558- [35mhttp[39m:[35mPOST /movie - - - - ms[39m
+[35m[39m
+2022-12-06 20:37:26:3726- [32minfo[39m:[32mconectado ao banco de dados![39m
+2022-12-06 20:37:26:3726- [32minfo[39m:[32mservidor rodando na porta 8000[39m
+2022-12-06 20:37:28:3728- [35mhttp[39m:[35mPOST /movie 200 369 - 31.113 ms[39m
+[35m[39m
+2022-12-06 20:37:34:3734- [35mhttp[39m:[35mPOST /movie 422 51 - 2.605 ms[39m
+[35m[39m
+2022-12-06 20:37:44:3744- [35mhttp[39m:[35mPOST /movie 422 60 - 3.319 ms[39m
+[35m[39m
+2022-12-06 20:37:54:3754- [35mhttp[39m:[35mPOST /movie 422 60 - 1.668 ms[39m
+[35m[39m
