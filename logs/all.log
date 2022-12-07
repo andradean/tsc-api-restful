@@ -158,3 +158,31 @@
 [35m[39m
 2022-12-06 20:37:54:3754- [35mhttp[39m:[35mPOST /movie 422 60 - 1.668 ms[39m
 [35m[39m
+2022-12-06 20:52:35:5235- [32minfo[39m:[32mconectado ao banco de dados![39m
+2022-12-06 20:52:35:5235- [32minfo[39m:[32mservidor rodando na porta 8000[39m
+2022-12-06 20:53:14:5314- [35mhttp[39m:[35mGET /movie/638fd0f4f44ce3d9c922dd65 - - - - ms[39m
+[35m[39m
+2022-12-06 20:53:56:5356- [35mhttp[39m:[35mGET /movie/638fd0f4f44ce3d9c922dd65 - - - - ms[39m
+[35m[39m
+2022-12-06 20:54:56:5456- [35mhttp[39m:[35mGET /movie/638fbb5812e7d3bf2a3dbc14 - - - - ms[39m
+[35m[39m
+2022-12-06 20:55:02:552- [35mhttp[39m:[35mGET /movie/638fbb5812e7d3bf2a3dbc13 404 39 - 14.506 ms[39m
+[35m[39m
+2022-12-06 20:55:32:5532- [32minfo[39m:[32mconectado ao banco de dados![39m
+2022-12-06 20:55:32:5532- [32minfo[39m:[32mservidor rodando na porta 8000[39m
+2022-12-06 20:55:47:5547- [32minfo[39m:[32mconectado ao banco de dados![39m
+2022-12-06 20:55:47:5547- [32minfo[39m:[32mservidor rodando na porta 8000[39m
+2022-12-06 20:56:00:560- [35mhttp[39m:[35mGET /movie/638fbb9512e7d3bf2a3dbc18 200 150 - 17.851 ms[39m
+[35m[39m
+2022-12-06 20:56:46:5646- [32minfo[39m:[32mconectado ao banco de dados![39m
+2022-12-06 20:56:46:5646- [32minfo[39m:[32mservidor rodando na porta 8000[39m
+2022-12-06 20:57:51:5751- [32minfo[39m:[32mconectado ao banco de dados![39m
+2022-12-06 20:57:51:5751- [32minfo[39m:[32mservidor rodando na porta 8000[39m
+2022-12-06 20:58:13:5813- [32minfo[39m:[32mconectado ao banco de dados![39m
+2022-12-06 20:58:13:5813- [32minfo[39m:[32mservidor rodando na porta 8000[39m
+2022-12-06 20:58:17:5817- [35mhttp[39m:[35mGET /movie 200 2565 - 26.597 ms[39m
+[35m[39m
+2022-12-06 20:59:04:594- [32minfo[39m:[32mconectado ao banco de dados![39m
+2022-12-06 20:59:04:594- [32minfo[39m:[32mservidor rodando na porta 8000[39m
+2022-12-06 20:59:47:5947- [32minfo[39m:[32mconectado ao banco de dados![39m
+2022-12-06 20:59:47:5947- [32minfo[39m:[32mservidor rodando na porta 8000[39m
