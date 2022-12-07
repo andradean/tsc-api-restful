@@ -186,3 +186,61 @@
 2022-12-06 20:59:04:594- [32minfo[39m:[32mservidor rodando na porta 8000[39m
 2022-12-06 20:59:47:5947- [32minfo[39m:[32mconectado ao banco de dados![39m
 2022-12-06 20:59:47:5947- [32minfo[39m:[32mservidor rodando na porta 8000[39m
+2022-12-07 17:37:41:3741- [32minfo[39m:[32merro ao conectar ao banco de dados[39m
+2022-12-07 17:37:55:3755- [32minfo[39m:[32merro ao conectar ao banco de dados[39m
+2022-12-07 17:38:32:3832- [32minfo[39m:[32mconectado ao banco de dados![39m
+2022-12-07 17:38:32:3832- [32minfo[39m:[32mservidor rodando na porta 8000[39m
+2022-12-07 17:38:46:3846- [35mhttp[39m:[35mPATCH /movie/638fd238d3ca31da6c3aaaf7 404 171 - 0.898 ms[39m
+[35m[39m
+2022-12-07 17:38:51:3851- [35mhttp[39m:[35mPATCH /movie/638fd238d3ca31da6c3aaaf7 404 171 - 0.327 ms[39m
+[35m[39m
+2022-12-07 17:39:08:398- [32minfo[39m:[32mconectado ao banco de dados![39m
+2022-12-07 17:39:08:398- [32minfo[39m:[32mservidor rodando na porta 8000[39m
+2022-12-07 17:39:10:3910- [35mhttp[39m:[35mPATCH /movie/638fd238d3ca31da6c3aaaf7 404 171 - 1.557 ms[39m
+[35m[39m
+2022-12-07 17:39:16:3916- [32minfo[39m:[32mconectado ao banco de dados![39m
+2022-12-07 17:39:16:3916- [32minfo[39m:[32mservidor rodando na porta 8000[39m
+2022-12-07 17:39:18:3918- [32minfo[39m:[32mconectado ao banco de dados![39m
+2022-12-07 17:39:18:3918- [32minfo[39m:[32mservidor rodando na porta 8000[39m
+2022-12-07 17:39:19:3919- [35mhttp[39m:[35mPATCH /movie/638fd238d3ca31da6c3aaaf7 404 171 - 1.630 ms[39m
+[35m[39m
+2022-12-07 17:40:25:4025- [35mhttp[39m:[35mPUT /movie/638fd238d3ca31da6c3aaaf7 404 169 - 0.415 ms[39m
+[35m[39m
+2022-12-07 17:40:26:4026- [35mhttp[39m:[35mPUT /movie/638fd238d3ca31da6c3aaaf7 404 169 - 0.250 ms[39m
+[35m[39m
+2022-12-07 17:40:43:4043- [35mhttp[39m:[35mPATCH /movie/638fd238d3ca31da6c3aaaf7 404 171 - 0.379 ms[39m
+[35m[39m
+2022-12-07 17:40:45:4045- [35mhttp[39m:[35mPATCH /movie/638fd238d3ca31da6c3aaaf7 404 171 - 0.248 ms[39m
+[35m[39m
+2022-12-07 17:41:17:4117- [35mhttp[39m:[35mGET /movie 200 2565 - 137.321 ms[39m
+[35m[39m
+2022-12-07 17:41:30:4130- [35mhttp[39m:[35mPATCH /movie/638fd238d3ca31da6c3aaaf7 404 171 - 0.176 ms[39m
+[35m[39m
+2022-12-07 17:42:17:4217- [32minfo[39m:[32mconectado ao banco de dados![39m
+2022-12-07 17:42:17:4217- [32minfo[39m:[32mservidor rodando na porta 8000[39m
+2022-12-07 17:42:25:4225- [32minfo[39m:[32mconectado ao banco de dados![39m
+2022-12-07 17:42:25:4225- [32minfo[39m:[32mservidor rodando na porta 8000[39m
+2022-12-07 17:42:26:4226- [35mhttp[39m:[35mPATCH /movie/638fd238d3ca31da6c3aaaf7 200 369 - 21.738 ms[39m
+[35m[39m
+2022-12-07 17:42:32:4232- [35mhttp[39m:[35mPATCH /movie/638fd238d3ca31da6c3aaaf7 200 369 - 11.926 ms[39m
+[35m[39m
+2022-12-07 17:42:36:4236- [35mhttp[39m:[35mGET /movie/638fd238d3ca31da6c3aaaf7 200 369 - 14.122 ms[39m
+[35m[39m
+2022-12-07 17:42:45:4245- [35mhttp[39m:[35mPATCH /movie/638fd238d3ca31da6c3aaaf7 200 369 - 10.658 ms[39m
+[35m[39m
+2022-12-07 17:45:17:4517- [32minfo[39m:[32mconectado ao banco de dados![39m
+2022-12-07 17:45:17:4517- [32minfo[39m:[32mservidor rodando na porta 8000[39m
+2022-12-07 17:45:20:4520- [35mhttp[39m:[35mPATCH /movie/638fd238d3ca31da6c3aaaf7 200 241 - 20.640 ms[39m
+[35m[39m
+2022-12-07 17:46:05:465- [35mhttp[39m:[35mPATCH /movie/638fd238d3ca31da6c3aaaf7 200 246 - 15.232 ms[39m
+[35m[39m
+2022-12-07 17:48:04:484- [32minfo[39m:[32mconectado ao banco de dados![39m
+2022-12-07 17:48:04:484- [32minfo[39m:[32mservidor rodando na porta 8000[39m
+2022-12-07 17:48:07:487- [35mhttp[39m:[35mPATCH /movie/638fd238d3ca31da6c3aaaf7 200 246 - 40.964 ms[39m
+[35m[39m
+2022-12-07 17:49:14:4914- [32minfo[39m:[32mconectado ao banco de dados![39m
+2022-12-07 17:49:14:4914- [32minfo[39m:[32mservidor rodando na porta 8000[39m
+2022-12-07 17:49:17:4917- [35mhttp[39m:[35mPATCH /movie/638fd238d3ca31da6c3aaaf7 200 246 - 91.304 ms[39m
+[35m[39m
+2022-12-07 17:49:34:4934- [35mhttp[39m:[35mPATCH /movie/638fd238d3ca31da6c3aaaf7 200 241 - 26.779 ms[39m
+[35m[39m

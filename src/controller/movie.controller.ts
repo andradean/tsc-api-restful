@@ -54,5 +54,28 @@ export async function findAllMovies(req:Request, res:Response ) {
         logger.error(`erro no sistema ${e.message}`)
 
     }
+
+
+    
+}
+
+export async function findOneAndUpdateMovie(req: Request, res:Response){
+    try{
+        const id = req.params.id
+        const data = req.body
+        
+        const movie = await movieModel.findById(id)
+        if(!movie){
+            return res.status(404).json({error:"O filme não foi encontrado, verifique o id"})
+        }
+       
+       await movieModel.updateOne({_id: id}, data)
+
+        return res.status(200).json(data)
+    
+    }  catch (e: any){
+        logger.error(`erro no sistema ${e.message}`)
+
+    }
     
 }
