@@ -6,7 +6,7 @@ import { movieModel } from "../model/movie";
 export async function createMovie(req:Request, res:Response) {
     try {
         const data = req.body
-        const movie = movieModel.create(data)
+        const movie = await movieModel.create(data)
         res.status(200).send(movie)
 
         
@@ -15,5 +15,44 @@ export async function createMovie(req:Request, res:Response) {
         
         
          }
+    
+} 
+
+export async function findMovieById(req:Request, res:Response ) {
+
+    try {
+        const id = req.params.id
+        const movie = await movieModel.findById(id)
+        if(!movie){
+            return res.status(404).json({error:"O filme não foi encontrado"})
+
+        }
+
+        return res.status(200).json(movie)
+
+
+    } catch (e: any){
+        logger.error(`erro no sistema ${e.message}`)
+
+    }
+    
+}
+
+export async function findAllMovies(req:Request, res:Response ) {
+
+    try {
+        const movie = await movieModel.find()
+        if(!movie){
+            return res.status(404).json({error:"Os filmes não foram encontrados"})
+
+        }
+
+        return res.status(200).json(movie)
+
+
+    } catch (e: any){
+        logger.error(`erro no sistema ${e.message}`)
+
+    }
     
 }
