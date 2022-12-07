@@ -14,4 +14,4 @@ export default router.get("/test", (req:Request, res: Response )=>{
  .get("/movie/:id", findMovieById)
  .get("/movie", findAllMovies)
  .patch("/movie/:id", findOneAndUpdateMovie)
- .delete("/movie/:id", deleteMovie)
+ .delete("/movie/:id",  movieCreateValidation(), validate ,deleteMovie)
