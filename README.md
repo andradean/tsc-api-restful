@@ -3,7 +3,7 @@
 ## 💻 Sobre o projeto
 
 Projeto desenvolvido durante  **o curso TypeScript do básico ao avançado - Matheus Battisti**.
-Neste projeto back end foi utilizado o framework Express e o banco não relacional mongoDB, consite em um CRUD de filmes utilizando arquitetura mvc e boas práticas do mercado
+Neste projeto back end onde criamos uma API RESTful, utilizando a arquitetura MVC, banco de dados MongoDB com Mongoose, sistema de logs com Winston e Morgan, validação de dados com Express Validator, e teste da API com Postman. tudo isso seguindo os padrões de desenvolvimento impostos pelo TypeScript e boas práticas do mercado de desenvolvimento de software.
 
 ## 📚 Sobre o curso
 - carga horária **14 horas**
